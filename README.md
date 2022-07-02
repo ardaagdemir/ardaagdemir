@@ -1,3 +1,7 @@
+## Don't Repeat Yourself
+<img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="3500" height="200">
+<br>
+<br>
 
 <h1 align="left">Hi there👋, I'm Arda from Turkey.</h1>
 <h3 align="left">I am a Software Back-End Developer. I really enjoy learning back-end languages and frameworks like Java and C#. I am interested in software architectures and design patterns. I continue to improve myself in these matters every day. How about you give me a star by checking out my projects in my Github repositories?</h3>
@@ -11,8 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaagdemir&show_icons=true&locale=en&layout=compact" alt="ardaagdemir" width="400"/></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ardaagdemir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ardaagdemir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardaagdemir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15804930/ardaagdemir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ardagdemirr@gmail.com)
