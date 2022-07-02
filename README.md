@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaagdemir&show_icons=true&locale=en&layout=compact" alt="ardaagdemir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&show_icons=true&locale=en" alt="ardaagdemir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical&show_icons=true&locale=en" alt="ardaagdemir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaagdemir&" alt="ardaagdemir" /></p>
 
