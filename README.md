@@ -1,7 +1,7 @@
 ## Don't Repeat Yourself
 <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="3500" height="200">
 
-<h1 align="center">Hi there👋, I'm'm Arda from Turkey.</h1>
+<h1 align="center">Hi there👋, I'm Arda from Turkey.</h1>
 <h3 align="center">I am a Software Back-End Developer. I really enjoy learning back-end languages and frameworks like Java and C#. I am interested in software architectures and design patterns. I continue to improve myself in these matters every day. How about you give me a star by checking out my projects in my Github repositories?</h3>
 
 <h3 align="left">Connect with me:</h3>
