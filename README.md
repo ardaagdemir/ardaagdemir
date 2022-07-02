@@ -16,8 +16,8 @@ How about you give me a star by checking out my projects in my Github repositori
 
 
 ## Reach out to me
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][LinkedIn]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />][Gmail]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg" />][Stack Overflow]
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ardaagdemir/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardaagdemir/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ardaagdemir)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ardagdemirr@gmail.com)
 
