@@ -17,8 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaagdemir&show_icons=true&locale=en&layout=compact" alt="ardaagdemir" width="400"/></p>
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
