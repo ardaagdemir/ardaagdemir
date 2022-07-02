@@ -18,11 +18,7 @@
 
 
 <summary> Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical" width="400">
-<br />
-<br />
-
-<summary>Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical" width="400"><summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaagdemir" width="250" height= "200">
 
 
