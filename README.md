@@ -1,16 +1,44 @@
-### Hi there 👋
+<img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="300" height="150">
 
-<!--
-**ardaagdemir/ardaagdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Arda. :blush:
 
-Here are some ideas to get you started:
+## Java and .Net Developer
+<font color="green"> Don't Repeat Yourself </font> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach out to me
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][LinkedIn]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />][Gmail]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg" />][Stack Overflow]
+<br />
+<br />
+<br />
+<br />
+
+
+### Tech I Use
+<img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" >
+<img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" width="25" height= "25">
+<img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png" width="25" height= "25">
+<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width= "25" height= "25">
+<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width= "25" height= "25">
+<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width= "25" height= "25">
+<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width= "25" height= "25">
+<br />
+<br />
+
+
+<summary> Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical" width="400">
+<br />
+<br />
+
+<summary>Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaagdemir" width="250" height= "200">
+
+
+
+
+
+[Gmail]: ardagdemirr@gmail.com
+[linkedin]: https://www.linkedin.com/in/ardaagdemir/
+[Stack Overflow]: https://stackoverflow.com/users/15804930/ardaagdemir
