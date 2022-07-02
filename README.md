@@ -10,21 +10,10 @@ How about you give me a star by checking out my projects in my Github repositori
 
 
 <summary> Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical" width="400">
-<summary>Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaagdemir" width="250" height= "200">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ardaagdemir)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaagdemir)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ardaagdemir&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ardaagdemir)  
+<img src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical" width="400"><summary>Most Used Languages</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaagdemir" width="250" height= "200">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ardaagdemir)  
 
-![Profile views](https://gpvc.arturio.dev/ardaagdemir)  
 
 
 ## Reach out to me
