@@ -12,7 +12,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaagdemir&theme=radical&show_icons=true&locale=en" alt="ardaagdemir" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaagdemir&show_icons=true&locale=en&layout=compact" alt="ardaagdemir" width="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaagdemir&show_icons=true&locale=en&layout=compact" alt="ardaagdemir" width="400"/></p><h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ardaagdemir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ardaagdemir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardaagdemir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15804930/ardaagdemir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ardagdemirr@gmail.com)
 
 
 
