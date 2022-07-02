@@ -1,4 +1,4 @@
-# Don't Repeat Yourself
+<h1 align="left"> Don't Repeat Yourself</h1>
 <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="3500" height="200">
 <br>
 <br>
