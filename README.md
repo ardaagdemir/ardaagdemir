@@ -7,8 +7,11 @@
 I'm Arda from Turkey, and I am a Software Back-End Developer. I really enjoy learning back-end languages and frameworks like Java and C#. I am interested in software architectures and design patterns. I continue to improve myself in these matters every day. 
 How about you give me a star by checking out my projects in my Github repositories?
 
-## Skills and Experience
+## - Skills and Experience
 <img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" ><img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" width="25" height= "25"><img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png" width="25" height= "25"><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width= "25" height= "25">
+
+## - 🔭 I’m currently working on this pagae. 
+<img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" ><img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" width="25" height= "25"><img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png" width="25" height= "25">
 
 ## - 🌱 I’m currently learning
 <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width= "25" height= "25"><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width= "25" height= "25"><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width= "25" height= "25">
