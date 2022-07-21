@@ -1,5 +1,5 @@
 <h1 align="left"> Don't Repeat Yourself</h1>
-<p><img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="500" height="200" /><br></p>
+<p><img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="1500" height="200" /><br></p>
 
 <h2 align="left">Hi there👋, I'm Arda from Turkey.</h2>
 <h4 align="left">I am a Software Back-End Developer. I really enjoy learning back-end languages and frameworks like Java and C#. I interest in software architectures and design patterns. I continue to improve myself in these matters every day. How about you give me a star by checking out my projects in my Github repositories?</h4>
